@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "name": "thirdparty-demo",
+  "plugins": [
+    {
+      "id": "thirdparty-echo",
+      "path": "provider-echo",
+      "version": "0.1.0"
+    },
+    {
+      "id": "thirdparty-scout",
+      "path": "provider-scout",
+      "version": "0.1.0"
+    },
+    {
+      "id": "thirdparty-review",
+      "path": "provider-review",
+      "version": "0.1.0"
+    }
+  ]
+}
